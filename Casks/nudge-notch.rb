@@ -1,6 +1,6 @@
 cask "nudge-notch" do
-  version "0.3.8"
-  sha256 "7d98365556035faee9b9ef4964b927f5aaf04768fbf8f358ed2355afb3827084"
+  version "1.0.0"
+  sha256 "b2b5c5203a5aa54d4df9d8c5caf99b5ddc4377e34907dddd5b33e4903af27558"
 
   url "https://github.com/suryanshkushwaha/nudge.notch/releases/download/v#{version}/nudgeNotch.dmg"
   name "NudgeNotch"
